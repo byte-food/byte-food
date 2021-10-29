@@ -1,4 +1,4 @@
-- Tariq Al Otaibi
+# Tariq Al Otaibi
 ### What I specialize in
 - Fluent in node, paritcularly the express js frame work
 - Postgresql and database adminstrator experience

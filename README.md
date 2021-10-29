@@ -1,8 +1,8 @@
 - Tariq Al Otaibi
 ### What I specialize in
-- fluent in node, paritcularly the express js frame work
-- postgresql and database adminstrator experience
-- fluent in python (what I started with).
+- Fluent in node, paritcularly the express js frame work
+- Postgresql and database adminstrator experience
+- Fluent in python (what I started with).
 - I have experience in numpy and pandas for data/matrix processing and operations.
 - Familiar with matplotlib for data visualization
 ### what I have basic knowledge in

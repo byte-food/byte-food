@@ -10,7 +10,7 @@
 - I have used java for desktop apps and android apps before.
 - In the process of learning flutter
 - sklearn for machine learning applications.
-- R for data processing and visualizatino
+- R for data processing and visualization
 <!---
 byte-food/byte-food is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
